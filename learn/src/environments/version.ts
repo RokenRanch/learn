@@ -1,0 +1,1 @@
+export const build_id:string = "$BUILD_ID$"

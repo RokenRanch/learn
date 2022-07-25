@@ -23,5 +23,4 @@ npm install normalize.css --save
 in styles.sass
 @import ~normalize.css/normalize.css
 
-
-ng generate module home --route=home --module=app.module
+ng generate module home --route=home --module=app.modul
